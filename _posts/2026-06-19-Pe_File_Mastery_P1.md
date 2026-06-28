@@ -1,7 +1,7 @@
 ---
-title: "PE Header Structures And Parsing ,A Complete Guide part1"
+title: "PE file headers analysis mastery series , Introduction"
 date: 2026-06-19 11:33:30 +0300
-categories: [malware analysis, PEHeaders] 
+categories: [malware analysis, PE file structure] 
 tags: [misc,malware]
 ---
 # PE file headers Analysis Mastery series ,Part1 ,Introduction :
