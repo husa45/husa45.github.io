@@ -1,11 +1,9 @@
 ---
-title: "PE file headers analysis mastery series , Introduction"
+title: "PE file headers Analysis Mastery series , Part1 ,Introduction"
 date: 2026-06-19 11:33:30 +0300
 categories: [malware analysis, PE file structure] 
 tags: [misc,malware]
 ---
-# PE file headers Analysis Mastery series ,Part1 ,Introduction :
-
 **Have you ever wondered how an executable (which is just compact sequence of instruction opcodes) gets understood and executed by the OS ,or you maybe heard about advanced evasion techniques like PE walking ,or API hashing and manual API resolving ,and you were wondering how all that works ?**
 <br><br>
 
