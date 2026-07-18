@@ -206,7 +206,7 @@ Now we get the physical offset  :
 
 ## resources
 
-[Virtual Address spaces , by MSDN ](http://example.com)
+[Virtual Address spaces , by MSDN ](https://learn.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/virtual-address-spaces)
 
 [Memory Protection in windows , by MSDN](https://learn.microsoft.com/en-us/windows/win32/memory/memory-protection)
 
