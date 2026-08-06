@@ -12,7 +12,7 @@ If you can recall our discussion about  the **optional headers** , you will sure
 
 The image above demonstrates the data directory array
 
-Notice that it is an array of ```IMAGE_DATA_DIRECTORY``` , which is like an indexer for each data directory available in the binary
+Notice that it is an array of ```IMAGE_DATA_DIRECTORY``` , which is like an indexer for each data directory available in the binary 
 
 It has the following structure : 
 ```
