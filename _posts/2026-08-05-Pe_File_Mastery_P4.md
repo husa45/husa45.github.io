@@ -36,7 +36,7 @@ It is noteworthy that those directories have a certain order , as defined by the
 
 ## Import directory 
 
-Have you ever wondered how you can call an API like ```CreateProcessA``` without it being implemented in your binary ? If you have studied windows internals you will say "Off course , we do not need to re-implement them , we just import the DLL" , but how does that work ?
+Have you ever wondered how you can call an API like ```CreateProcessA``` without it being implemented in your binary ? If you have studied windows internals you will say "Off course , we do not need to re-implement them , we just import the DLL" ,  but how does that work ?
 
 Almost every executable has an import array , which is accessed with the following formula : 
 
