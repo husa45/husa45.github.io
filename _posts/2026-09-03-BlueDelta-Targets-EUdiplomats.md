@@ -1,8 +1,8 @@
 ---
 title: "HOOKEDGE , a light weight backdoor used by BLueDelta to target EU diplomats"
 date: 2026-09-03 16:00:30 +0300
-categories: [malware analysis, PE file structure] 
-tags: [misc,malware]
+categories: [malware analysis, Threat Intelligence] 
+tags: [tracking,malware]
 ---
 
 In this blog post , we are going to be analyzing an instance of an earlier campaign , conducted by **BlueDelta** group  (which overlaps with APT28, Fancy Bear, and Forest Blizzard) , that targets **Euopean Union** Diplomats with Malicious Word-Documents carrying **HOOKEDGE**, a  light-weight , batch script backdoor .
