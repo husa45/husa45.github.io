@@ -5,7 +5,7 @@ categories: [malware analysis, PE file structure]
 tags: [misc,malware]
 ---
 
-We have come a long way so far  in this series , we have discussed important concepts like   the general PE file structure , section headers , import and export resolving  and many other important topics .
+We have come a long way so far  in this series , we have discussed important concepts like   the general PE file structure , section headers , import and export resolving  and many other  important topics .
 
 But as they say , for every beginning there is an end , so this is going to be our final station in our glorious PE file structure tour . In this article we are going to discuss and simplify one of the most confusing topics about the PE file , which is the relocations .
 
