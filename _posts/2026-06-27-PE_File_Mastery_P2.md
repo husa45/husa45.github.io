@@ -1,5 +1,5 @@
 ---
-title: "PE file headers analysis mastery series , part 2"
+title: "PE file headers analysis mastery series , basics"
 date: 2026-06-26 17:03:30 +0300
 categories: [malware analysis, PE file structure] 
 tags: [misc,malware]
