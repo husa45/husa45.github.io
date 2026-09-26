@@ -1,7 +1,7 @@
 ---
 title: "Mirage kitten tricking victims with code-challenge lures"
 date: 2026-09-09 22:00:30 +0300
-categories: [malware analysis, Threat Intelligence] 
+categories: [malware analysis, Threat Intelligence,APT] 
 tags: [tracking,malware]
 ---
 

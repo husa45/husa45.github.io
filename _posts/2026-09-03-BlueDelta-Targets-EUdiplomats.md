@@ -1,7 +1,7 @@
 ---
 title: "HOOKEDGE , a light weight backdoor used by BLueDelta to target EU diplomats"
 date: 2026-09-03 16:00:30 +0300
-categories: [malware analysis, Threat Intelligence] 
+categories: [malware analysis, Threat Intelligence,APT] 
 tags: [tracking,malware]
 ---
 
