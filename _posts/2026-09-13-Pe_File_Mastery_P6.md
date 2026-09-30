@@ -216,8 +216,4 @@ I have not forgot about the ``reflective`` loader project that i promised at the
 Understanding the PE+ file format - Part 5: Relocation table](https://youtu.be/36Ncv-SMmI4)
 
 2.Relocations documentation : [Relocations MSDN](https://learn.microsoft.com/en-us/windows/win32/debug/pe-format#the-reloc-section-image-only)
-
-
-
-
  
