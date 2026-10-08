@@ -17,10 +17,10 @@ Notably, the most important aspect is that it can send various types of data via
 
 **Hashes**
 
-| Type | Value |
-|---|---|
-| MD5 | `c8e6cab481e023001ef10dd278ff83c2` |
-| SHA-1 | `718c2ce6170d6ca505297b41de072d8d3b873456` |
+| Type    | Value                                                              |
+| ------- | ------------------------------------------------------------------ |
+| MD5     | `c8e6cab481e023001ef10dd278ff83c2`                                 |
+| SHA-1   | `718c2ce6170d6ca505297b41de072d8d3b873456`                         |
 | SHA-256 | `6057b19975818ff4487ee62d5341834c53ab80a507949a52422ab37c7c46b7a1` |
 
 **File Type:** PE32 (32-bit executable), 272.45 KB (278,992 bytes)
