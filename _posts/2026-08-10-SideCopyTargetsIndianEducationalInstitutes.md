@@ -406,7 +406,7 @@ Anamulous pings to ``googledns or cloudflare or microsoft`` from  ``mshta.exe`` 
 I have written A YARA Rule that aims to detect **reverse rat** and it's associated  artefacts : [YARA rule](https://github.com/husa45/Malware-analysis/blob/main/YaraRules/SideCopyTargettingAcedemicInstitutionsCampaign-late-sep-2026.YARA)
 
 
-## References<a name="headin"></a>
+## References
 
  - [1]  [MITRE ATT&CK , SideCopy group ](https://attack.mitre.org/groups/G1008/)
 -  [2]  [SideCopy Threat Intel: MSHTA-driven Execution and RAT Deployment](https://www.trellix.com/blogs/research/sidecopy-threat-intel-mshta-execution-rat-deployment/)
