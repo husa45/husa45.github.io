@@ -1,6 +1,6 @@
 ---
 title: "An Overview of BYOVD and it's abuse"
-date: 2026-10-24 21:00:00 +0300
+date: 2026-10-25 18:00:00 +0300
 categories: [malware analysis, Misc] 
 tags: [malware,kernel,BYOVD,rootkits,EDR,edr-killers]
 render_with_liquid: false
